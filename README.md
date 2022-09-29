@@ -1,6 +1,11 @@
 # IF184504_WEBPRO-D-_Q1_5025201093_Hafizh-Mufid-Darussalam
-A Web Programming class assignment.
+**A Web Programming Class Assignment**
+
 Link to the website: https://webpro-quiz-1-hmd.pages.dev/
+
+or 
+
+https://migorengrendang165.github.io/IF184504_WEBPRO-D-_Q1_5025201093_Hafizh-Mufid-Darussalam/
 
 # Design
 The static website will use HTML and CSS. For this time, Javascript hasn't been used yet. Here is the image of what was the concept of the interface. 
