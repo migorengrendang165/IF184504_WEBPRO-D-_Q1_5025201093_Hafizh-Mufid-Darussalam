@@ -47,5 +47,20 @@ The syntax above could be obtained from fonts.google.com. If I wanted to center 
 ```
 
 # Analysis/Evaluation
+Here is the final result of the static website:
 
+![image](3.png)
+
+Notice that the background isn't a gradient but solid color. This is because after came up with gradient background, I noticed that the gradient wasn't smooth at all. There are "staircases effect" especially on color's transition. Unfortunately I don't have any documentation like screenshot of that gradient background. After that, I decided to use solid background. 
+
+There is another problem when I was about to host the web. I tried Github, but it didn't work (sadly, no documentation) even though in the end it worked.
+
+![image](4.png)
+
+Then, I went to Cloudfare and it worked.
+
+![image](5.png)
+
+Now I have two identical website. Great success (?). Hypothesis: I need to wait for some time for Github to successfully host my website.
 # Conclusion
+In conclusion, when building a website, things will not always be going to run smoothly as we wished. There will be some challenges, problems, and obstacles in the execution. It's our job to overcome those obstacles.
